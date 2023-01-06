@@ -30,6 +30,16 @@
     background-color: #FD6E0A;
 
 }
+.btn-primary-2{
+    font-family: 'Open Sans';
+    border: 1px solid #FD6E0A ;
+    color: #FD6E0A;
+    padding: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    border-radius: 5px;
+}
 
 nav {
     display: flex;
